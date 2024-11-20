@@ -1,3 +1,4 @@
+// This class acts as the controller
 public class Game {
     private int score;
     private static int highScore;
