@@ -12,7 +12,9 @@ public class Snake extends Entity {
         this.direction = Direction.RIGHT;
         body.add(position);
     }
-
+/*
+Snake movement method
+ */
     @Override
     public void move() {
         System.out.println("Snake is moving " + direction);
