@@ -5,7 +5,7 @@ public class Board implements Drawable {
     public void initializeBoard() {
         System.out.println("Initializing board with width " + width + " and height " + height);
     }
-
+// Method for the draw board
     public void drawBoard() {
         System.out.println("Drawing board.");
     }
