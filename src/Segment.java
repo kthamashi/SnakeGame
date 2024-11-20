@@ -1,3 +1,4 @@
+// Segment refers to the portion of the snake's body
 public class Segment {
     private int x;
     private int y;
