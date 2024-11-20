@@ -13,7 +13,7 @@ public class Snake extends Entity {
         body.add(position);
     }
 /*
-Snake movement method
+Snake movement method in any direction
  */
     @Override
     public void move() {
